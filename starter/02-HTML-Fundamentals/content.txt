@@ -10,7 +10,7 @@ In this post, let's focus on HTML. We will learn what HTML is all about, and why
 
 What is HTML?
 
-HTML stands for HyperText Markup Language. It's a markup language that web developers use to structure and describe the content of a webpage (not a programming language).
+HTML stands for HyperText Markup Language. It's a markup language that web developers use to structure and describe the content of a webpage (not a programming language).c
 
 HTML consists of elements that describe different types of content: paragraphs, links, headings, images, video, etc. Web browsers understand HTML and render HTML code as websites.
 
